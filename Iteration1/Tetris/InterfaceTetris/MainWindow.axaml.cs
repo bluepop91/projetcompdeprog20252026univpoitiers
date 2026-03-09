@@ -90,7 +90,7 @@ public partial class MainWindow : Window
     /*Cette fonction permet de démarrer le Jeu*/
     public void DemarrerInterface()
     {
-        Console.WriteLine("Démarrage du jeu de Tetris à coder...");
+        
     }
 
     /*Cette fonction permet de déplacer le tétrominos à droite*/
