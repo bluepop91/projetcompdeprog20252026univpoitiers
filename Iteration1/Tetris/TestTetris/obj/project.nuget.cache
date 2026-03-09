@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JKI7IbrrcUw=",
+  "dgSpecHash": "GArqDCeZ9w0=",
   "success": true,
-  "projectFilePath": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\Iteration1\\Tetris\\TestTetris\\TestTetris.csproj",
+  "projectFilePath": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\projetcompdeprog20252026univpoitiers\\Iteration1\\Tetris\\TestTetris\\TestTetris.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dnicol04\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
     "C:\\Users\\dnicol04\\.nuget\\packages\\microsoft.codecoverage\\17.14.1\\microsoft.codecoverage.17.14.1.nupkg.sha512",

@@ -1,6 +1,13 @@
 ﻿namespace NoyauTetris;
 
-public class Class1
+public class JeuTetris
 {
+    public int LargeurGrille;
+    public int HauteurGrille;
 
+    public JeuTetris()
+    {
+        LargeurGrille = 12;
+        HauteurGrille = 15;
+    }
 }
