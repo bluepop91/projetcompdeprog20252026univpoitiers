@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\Iteration0\\Tetris\\TestTetris\\TestTetris.csproj": {}
+    "C:\\Users\\yvedie\\Documents\\DEV\\projetcompdeprog20252026univpoitiers\\Iteration0\\Tetris\\TestTetris\\TestTetris.csproj": {}
   },
   "projects": {
-    "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\Iteration0\\Tetris\\NoyauTetris\\NoyauTetris.csproj": {
+    "C:\\Users\\yvedie\\Documents\\DEV\\projetcompdeprog20252026univpoitiers\\Iteration0\\Tetris\\NoyauTetris\\NoyauTetris.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\Iteration0\\Tetris\\NoyauTetris\\NoyauTetris.csproj",
+        "projectUniqueName": "C:\\Users\\yvedie\\Documents\\DEV\\projetcompdeprog20252026univpoitiers\\Iteration0\\Tetris\\NoyauTetris\\NoyauTetris.csproj",
         "projectName": "NoyauTetris",
-        "projectPath": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\Iteration0\\Tetris\\NoyauTetris\\NoyauTetris.csproj",
-        "packagesPath": "C:\\Users\\dnicol04\\.nuget\\packages\\",
-        "outputPath": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\Iteration0\\Tetris\\NoyauTetris\\obj\\",
+        "projectPath": "C:\\Users\\yvedie\\Documents\\DEV\\projetcompdeprog20252026univpoitiers\\Iteration0\\Tetris\\NoyauTetris\\NoyauTetris.csproj",
+        "packagesPath": "C:\\packages_avalonia",
+        "outputPath": "C:\\Users\\yvedie\\Documents\\DEV\\projetcompdeprog20252026univpoitiers\\Iteration0\\Tetris\\NoyauTetris\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dnicol04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yvedie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
@@ -344,20 +344,20 @@
         }
       }
     },
-    "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\Iteration0\\Tetris\\TestTetris\\TestTetris.csproj": {
+    "C:\\Users\\yvedie\\Documents\\DEV\\projetcompdeprog20252026univpoitiers\\Iteration0\\Tetris\\TestTetris\\TestTetris.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\Iteration0\\Tetris\\TestTetris\\TestTetris.csproj",
+        "projectUniqueName": "C:\\Users\\yvedie\\Documents\\DEV\\projetcompdeprog20252026univpoitiers\\Iteration0\\Tetris\\TestTetris\\TestTetris.csproj",
         "projectName": "TestTetris",
-        "projectPath": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\Iteration0\\Tetris\\TestTetris\\TestTetris.csproj",
-        "packagesPath": "C:\\Users\\dnicol04\\.nuget\\packages\\",
-        "outputPath": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\Iteration0\\Tetris\\TestTetris\\obj\\",
+        "projectPath": "C:\\Users\\yvedie\\Documents\\DEV\\projetcompdeprog20252026univpoitiers\\Iteration0\\Tetris\\TestTetris\\TestTetris.csproj",
+        "packagesPath": "C:\\packages_avalonia",
+        "outputPath": "C:\\Users\\yvedie\\Documents\\DEV\\projetcompdeprog20252026univpoitiers\\Iteration0\\Tetris\\TestTetris\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\dnicol04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\yvedie\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -373,8 +373,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\Iteration0\\Tetris\\NoyauTetris\\NoyauTetris.csproj": {
-                "projectPath": "G:\\Dossier - UNIVERSITE\\Complément-de-Prog - S2\\Projet\\Iteration0\\Tetris\\NoyauTetris\\NoyauTetris.csproj"
+              "C:\\Users\\yvedie\\Documents\\DEV\\projetcompdeprog20252026univpoitiers\\Iteration0\\Tetris\\NoyauTetris\\NoyauTetris.csproj": {
+                "projectPath": "C:\\Users\\yvedie\\Documents\\DEV\\projetcompdeprog20252026univpoitiers\\Iteration0\\Tetris\\NoyauTetris\\NoyauTetris.csproj"
               }
             }
           }
@@ -428,7 +428,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

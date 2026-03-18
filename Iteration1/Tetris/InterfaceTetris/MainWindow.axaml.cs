@@ -90,7 +90,15 @@ public partial class MainWindow : Window
     /*Cette fonction permet de démarrer le Jeu*/
     public void DemarrerInterface()
     {
-        Console.WriteLine("Démarrage du jeu de Tetris à coder...");
+        // Vider la zone graphique
+        TetrisCanvas.Children.Clear();
+
+        // Dessiner le cadre
+        DessinerCadre();
+        // Dessiner les 3 carrés
+        DessinerCarre(0, 0, Couleur.Rose);
+        DessinerCarre(1, 1, Couleur.Violet);
+        DessinerCarre(2, 2, Couleur.Bleu);
     }
 
     /*Cette fonction permet de déplacer le tétrominos à droite*/
