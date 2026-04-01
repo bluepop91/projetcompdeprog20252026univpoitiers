@@ -32,4 +32,19 @@ public class Position
         X = x;
         Y = y;
     }
+
+public void gauche()
+    {
+        X--;
+    }
+
+    public void droite()
+    {
+        X++;
+    }
+
+    public void bas()
+    {
+        Y++;
+    }
 }
