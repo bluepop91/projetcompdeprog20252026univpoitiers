@@ -90,7 +90,7 @@ public partial class MainWindow : Window
     public void DessinerCadre()
     {
         // Fond blanc
-        DessinerRectangle(10, 0, 180, 390, Avalonia.Media.Brushes.White);
+        DessinerRectangle(12, 0, 178, 388, tradCouleur(TetrinoCouleur.Blanc));
     }
 
        
@@ -107,9 +107,13 @@ public partial class MainWindow : Window
         // Dessiner le cadre
         DessinerCadre();
         // Dessiner les 3 carrés
-        DessinerRectangle(10, 0, 10, 10, Avalonia.Media.Brushes.Pink);
-        DessinerRectangle(20, 10, 10, 10, Avalonia.Media.Brushes.Purple);
-        DessinerRectangle(30, 20, 10, 10, Avalonia.Media.Brushes.Blue);
+        DessinerRectangle(12, 0, 22, 22, tradCouleur(TetrinoCouleur.Noir));
+        DessinerRectangle(13, 1, 20, 20, tradCouleur(TetrinoCouleur.Bleu));
+        DessinerRectangle(34, 22, 22, 22, tradCouleur(TetrinoCouleur.Noir));
+        DessinerRectangle(35, 23, 20, 20, tradCouleur(TetrinoCouleur.Rose));
+        DessinerRectangle(56, 44, 22, 22, tradCouleur(TetrinoCouleur.Noir));
+        DessinerRectangle(57, 45, 20, 20, tradCouleur(TetrinoCouleur.Violet));
+        
     }
 
     /*Cette fonction permet de déplacer le tétrominos à droite*/
@@ -148,8 +152,27 @@ public partial class MainWindow : Window
     {
         Console.WriteLine("Rotation à gauche à coder...");
     }
+    public Avalonia.Media.IBrush tradCouleur(TetrinoCouleur c)
+    {
+        switch (c)
+        {
+            case TetrinoCouleur.Bleu:
+                return Avalonia.Media.Brushes.Blue;
+            case TetrinoCouleur.Rose:
+                return Avalonia.Media.Brushes.Pink;
+            case TetrinoCouleur.Violet:
+                return Avalonia.Media.Brushes.Purple;
+            case TetrinoCouleur.Blanc:
+                return Avalonia.Media.Brushes.White;
+            case TetrinoCouleur.Noir:
+                return Avalonia.Media.Brushes.Black;
+            default:
+                return Avalonia.Media.Brushes.White;
+        }
+    }
 }
 
 public interface IBrush
 {
 }
+
